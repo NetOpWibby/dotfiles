@@ -8,7 +8,7 @@ echo "=========================="
 
 # wget -P ~/Library/Application\ Support/Sublime\ Text 3/Installed\ Packages/ "https://packagecontrol.io/Package%20Control.sublime-package"
 curl -O "https://packagecontrol.io/Package%20Control.sublime-package"
-mv $PWD/scripts/Package\ Control.sublime-package ~/Library/Application\ Support/Sublime\ Text 3/Installed\ Packages
+mv $PWD/Package%20Control.sublime-package ~/Library/Application\ Support/Sublime\ Text 3/Installed\ Packages/Package\ Control.sublime-package
 
 echo "============================="
 echo "Transferring Sublime settings"
