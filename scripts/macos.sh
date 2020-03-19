@@ -2,7 +2,9 @@
 
 
 
+echo "=================================="
 echo "Initializing macOS Configurator..."
+echo "=================================="
 
 # Dock
 echo "Dimming hidden app icons in dock"
