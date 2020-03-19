@@ -1,0 +1,7 @@
+[user]
+	name = netop://ウエハ
+	email = paul@webb.page
+[push]
+	default = simple
+[core]
+	autocrlf = input

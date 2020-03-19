@@ -1,0 +1,2 @@
+-f bestvideo+bestaudio
+-o ~/Movies/%(title)s.%(ext)s
