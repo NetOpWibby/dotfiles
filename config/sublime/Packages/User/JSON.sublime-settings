@@ -1,0 +1,11 @@
+{
+	"extensions": [
+		".babelrc",
+		".eslintrc",
+		".prettierrc",
+		"sublime-settings",
+		"json",
+		".stylelintrc",
+		".nycrc"
+	]
+}

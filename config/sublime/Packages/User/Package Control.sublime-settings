@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages": [],
+	"installed_packages": [
+		"ayu",
+		"Babel",
+		"Color Highlight",
+		"Crystal",
+		"Dracula Color Scheme",
+		"FileIcons",
+		"Find++",
+		"GitGutter",
+		"Gitignored File Excluder",
+		"GraphQL",
+		"Highlight Trailing Whitespace",
+		"Package Control",
+		"Sass",
+		"SearchPanelEnhanced",
+		"SideBarEnhancements",
+		"StatusMessage",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"Swift",
+		"TabNine",
+		"Theme - City Lights",
+		"Theme - Monokai Pro",
+		"Theme - Spacefunk",
+		"Theme - Spacegray",
+		"TypeScript",
+		"TypeScript Syntax"
+	]
+}
