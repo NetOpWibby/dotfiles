@@ -6,9 +6,9 @@ echo "=========================="
 echo "Installing Package Control"
 echo "=========================="
 
-### In case "wget" is not installed
-brew install wget
-wget -P ~/Library/Application\ Support/Sublime\ Text 3/Installed\ Packages/ "https://packagecontrol.io/Package%20Control.sublime-package"
+# wget -P ~/Library/Application\ Support/Sublime\ Text 3/Installed\ Packages/ "https://packagecontrol.io/Package%20Control.sublime-package"
+curl -O "https://packagecontrol.io/Package%20Control.sublime-package"
+mv $PWD/scripts/Package\ Control.sublime-package ~/Library/Application\ Support/Sublime\ Text 3/Installed\ Packages
 
 echo "============================="
 echo "Transferring Sublime settings"
